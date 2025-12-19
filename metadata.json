@@ -1,0 +1,7 @@
+{
+  "name": "BioAcoustic ML Deployer",
+  "description": "An interactive technical guide and simulator for deploying real-time bird sound and threat detection ML models. Explains audio pipeline architectures, endpoint integration, and real-time prediction workflows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
